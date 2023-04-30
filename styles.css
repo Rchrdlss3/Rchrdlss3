@@ -1,0 +1,10 @@
+img {
+    width: 5%;
+}
+.techstack-wrapper {
+    display: flex;
+}
+.techstack-wrapper img{
+    width : 20px;
+    height: 10px;
+}
