@@ -26,21 +26,13 @@ flex-drection: row;
 "
 >
 <img 
-style = "
-        width: 15%;
-        height: 15%;"
+style = "width: 15%; height: 15%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 15%; height: 15%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 15%; height: 15%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 15%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img style = "
         width: 15%;
