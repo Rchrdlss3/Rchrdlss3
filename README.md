@@ -34,7 +34,7 @@ style = "width: 15%; height: 15%;">
 </img>
 <img 
 src = "images/reactJS.png" 
-style = "width: 10%; height: 10%;"> 
+style = "width: 15%; height: 15%;"> 
 </img>
 <img 
 src = "images/kotlin.png" 
