@@ -14,7 +14,7 @@ style = "width : 50%;">
 </a>
 </p>
 
-# My Tech Stack
+# Skills
 <div style = 
 "display: flex;
 flex-drection: row;
@@ -42,6 +42,14 @@ style = "width: 15%; height: 15%;">
 </img>
 <img 
 src = "images/python.png" 
+style = "width: 15%; height: 15%;"> 
+</img>
+<img 
+src = "images/mysql.png" 
+style = "width: 15%; height: 15%;"> 
+</img>
+<img 
+src = "images/photoshop.png" 
 style = "width: 15%; height: 15%;"> 
 </img>
 </div>
