@@ -2,15 +2,42 @@
 <link rel="stylesheet" href="styles.css">
 **`Junior Full Stack Engineer`**
 
-I'm currently employed at <a href ="https://ecosaveinc.com/">EcoSave </a> as a Junior Full Stack Engineer.
+Hello and welcome to my Github portfolio! I'm currently employed at <a href ="https://ecosaveinc.com/">EcoSave </a> as a Junior Full Stack Engineer.
 
-<p align = "left">
-<a href="https://www.linkedin.com/in/richardulysse/"><img src = "images/linkedin.png"> </img></a>
+<p 
+style = "algin: left;">
+<a href="https://www.linkedin.com/in/richardulysse/">
+<img 
+src = "images/linkedin.png"
+style = "width : 50%;"> 
+</img>
+</a>
 </p>
 
 # My Tech Stack
-<div class = "techstack-wrapper">
-<img src = "images/html.png"> </img>
-<img src = "images/css.png"> </img>
-<img src = "images/javascript.png"> </img>
+<div style = 
+"display: flex;
+flex-drection: row;
+"
+>
+<img 
+src = "images/html.png" 
+style = "width: 30%; height: 30%;"> 
+</img>
+<img 
+src = "images/css.png" 
+style = "width: 30%; height: 30%;"> 
+</img>
+<img 
+src = "images/javascript.png" 
+style = "width: 30%; height: 30%;"> 
+</img>
+<img 
+src = "images/reactjs.png" 
+style = "width: 30%; height: 30%;"> 
+</img>
+<img 
+src = "images/kotlin.png" 
+style = "width: 30%; height: 30%;"> 
+</img>
 </div>
