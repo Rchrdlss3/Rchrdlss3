@@ -33,8 +33,13 @@ src = "images/javascript.png"
 style = "width: 10%; height: 10%;"> 
 </img>
 <img 
+<<<<<<< HEAD
 src = "images/reactjs.png" 
 style = "width: 10%; height: 10%;"> 
+=======
+src = "images/reactJS.png" 
+style = "width: 30%; height: 30%;"> 
+>>>>>>> e4d52e92b084c19b74d2ae05cb2664f789c23bac
 </img>
 <img 
 src = "images/kotlin.png" 
