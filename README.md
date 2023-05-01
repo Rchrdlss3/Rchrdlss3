@@ -1,6 +1,7 @@
 # Richard Ulysse
 
 <style>
+
     * {
         color: #CCC;
     }
@@ -24,8 +25,11 @@
     .about-me-content .active {
         background-color: green;
     }
+
 </style>
+
 <script defer> 
+
     var collapse = document.getElementsByClassName("about-me-content")
     collapse.addEventListener("click",function() {
     collapse.classList("active")
@@ -35,6 +39,7 @@
         content.style.display = "none";
     }
     })
+
 </script>
 
 ```
