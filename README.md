@@ -40,4 +40,8 @@ style = "width: 15%; height: 15%;">
 src = "images/kotlin.png" 
 style = "width: 15%; height: 15%;"> 
 </img>
+<img 
+src = "images/python.png" 
+style = "width: 15%; height: 15%;"> 
+</img>
 </div>
