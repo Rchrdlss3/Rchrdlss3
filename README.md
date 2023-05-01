@@ -33,7 +33,7 @@ src = "images/javascript.png"
 style = "width: 30%; height: 30%;"> 
 </img>
 <img 
-src = "images/reactjs.png" 
+src = "images/reactJS.png" 
 style = "width: 30%; height: 30%;"> 
 </img>
 <img 
