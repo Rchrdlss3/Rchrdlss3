@@ -52,4 +52,12 @@ style = "width: 15%; height: 15%;">
 src = "images/photoshop.png" 
 style = "width: 15%; height: 15%;"> 
 </img>
+<img 
+src = "images/restfulapi.png" 
+style = "width: 15%; height: 15%;"> 
+</img>
+<img 
+src = "images/commandline.png" 
+style = "width: 15%; height: 15%;"> 
+</img>
 </div>
