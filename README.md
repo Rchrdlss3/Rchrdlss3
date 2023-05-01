@@ -32,74 +32,42 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img style = "width: 5%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style = "width: 5%; height: 5%;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;" 
+<img style = "width: 5%; height: 5%;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
- <img style = "
-        width: 15%;
-        height: 15%;"
+ <img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img style = "
-        width: 15%;
-        height: 15%;"
+<img style = "width: 5%; height: 5%;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-           
-<img src = "images/restfulapi.png" > </img>
 </div>
 
 # What I'm Currently Working On
