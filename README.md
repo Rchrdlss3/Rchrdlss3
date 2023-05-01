@@ -1,47 +1,5 @@
 # Richard Ulysse
 
-<style>
-
-    * {
-        color: #CCC;
-    }
-    .skills-wrapper img {
-        width: 15%;
-        height: 15%;
-    }
-    .portfolio-links-wrapper img {
-        width : 15%;
-        height: 15%;
-    }
-    .about-me-section button {
-        width: 100%;
-        border: none;
-        /*background-color: inherit;*/
-        color: inherit;
-    }
-    .about-me-content {
-        display: none;
-    }
-    .about-me-content .active {
-        background-color: green;
-    }
-
-</style>
-
-<script defer> 
-
-    var collapse = document.getElementsByClassName("about-me-content")
-    collapse.addEventListener("click",function() {
-    collapse.classList("active")
-    if (collapse.style.display = "none") {
-        content.style.display = "block";
-    } else {
-        content.style.display = "none";
-    }
-    })
-
-</script>
-
 ```
 (base) Github@github ~ % cd Rchrdlss3
 ```
@@ -53,7 +11,10 @@ Hello and welcome to my Github portfolio! I'm currently employed at <a href ="ht
 <p 
 style = "algin: left;">
 <a href="https://www.linkedin.com/in/richardulysse/">
-<img src = "images/linkedin.png"> </img>
+<img style=
+        "width : 15%;
+        height: 15%;"
+src = "images/linkedin.png"> </img>
 </a>
 </p>
 </div>
@@ -64,26 +25,103 @@ style = "algin: left;">
 flex-drection: row;
 "
 >
-<img src = "images/html.png" > </img>
-<img src = "images/css.png" > </img>
-<img src = "images/javascript.png"> </img>
-<img src = "images/reactJS.png" > </img>
-<img src = "images/kotlin.png" > </img>
-<img src = "images/python.png" > </img>
-<img src = "images/mysql.png" > </img>
-<img src = "images/photoshop.png" > </img>
+<img 
+style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+ <img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img style = "
+        width: 15%;
+        height: 15%;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+           
 <img src = "images/restfulapi.png" > </img>
 </div>
 
 # What I'm Currently Working On
-Alicia Keys Kotlin Project
-<div class = "about-me-section">
-# <button>About Me</button>
+<a href ="https://github.com/Rchrdlss3/LellowHub">Alicia Keys Kotlin Project</a>
+
+# About Me
 <div class = "about-me-content" id ="about-me-coll">
 Hi there! My name is Richard and I'm from New York. Currently a resident in Delaware, 
 * How and When I started getting into computer
 * How I also have a passion for photo and video editing, Figma
 * Anime and Gym if not coding
 * From New York, moved to Delaware in November for job in Philly
-</div>
 </div>
