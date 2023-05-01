@@ -22,22 +22,22 @@ flex-drection: row;
 >
 <img 
 src = "images/html.png" 
-style = "width: 30%; height: 30%;"> 
+style = "width: 10%; height: 10%;"> 
 </img>
 <img 
 src = "images/css.png" 
-style = "width: 30%; height: 30%;"> 
+style = "width: 10%; height: 10%;"> 
 </img>
 <img 
 src = "images/javascript.png" 
-style = "width: 30%; height: 30%;"> 
+style = "width: 10%; height: 10%;"> 
 </img>
 <img 
 src = "images/reactjs.png" 
-style = "width: 30%; height: 30%;"> 
+style = "width: 10%; height: 10%;"> 
 </img>
 <img 
 src = "images/kotlin.png" 
-style = "width: 30%; height: 30%;"> 
+style = "width: 10%; height: 10%;"> 
 </img>
 </div>
