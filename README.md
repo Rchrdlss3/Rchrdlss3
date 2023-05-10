@@ -3,6 +3,7 @@
 ```
 (base) Github@github ~ % cd Rchrdlss3
 ```
+
 **Full Stack Engineer**
 
 Hello and welcome to my Github portfolio! I'm currently employed at <a href ="https://ecosaveinc.com/">EcoSave </a> as a Junior Full Stack Engineer.
@@ -15,6 +16,12 @@ style = "algin: left;">
         "width : 15%;
         height: 15%;"
 src = "images/linkedin.png"> </img>
+</a>
+<a href = "" > 
+<img style =
+        "width : 15%;
+         height: 15%; "
+src = "images/portfolio.png"> </img>
 </a>
 </p>
 </div>
