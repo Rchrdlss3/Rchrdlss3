@@ -17,13 +17,15 @@ style = "algin: left;">
         height: 15%;"
 src = "images/linkedin.png"> </img>
 </a>
-<a href = "" > 
+
+<a href = "https://innovativerich.netlify.app/" > 
 <img style =
         "width : 15%;
-         height: 15%; "
+         height: 15%; 
+         display: flex;"
 src = "images/portfolio.png"> </img>
 </a>
-</p>
+<p>Portfolio site currently WIP</p></div>
 </div>
 
 # Skills
