@@ -6,7 +6,7 @@
 
 **Full Stack Engineer**
 
-Hello and welcome to my Github portfolio! I'm currently employed at <a href ="https://ecosaveinc.com/">EcoSave </a> as a Junior Full Stack Engineer.
+Hello and welcome to my Github portfolio! I'm currently employed at <a href ="https://ecosaveinc.com/">EcoSave </a> as a Full Stack Engineer.
 
 <div class = "portfolio-links-wrapper">
 <p 
