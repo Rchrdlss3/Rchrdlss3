@@ -1,4 +1,4 @@
-# Richard Ulysse
+# Richard
 
 ```
 (base) Github@github ~ % cd Rchrdlss3
