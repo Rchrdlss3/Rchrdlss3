@@ -86,5 +86,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-origin
 <div class = "about-me-content" id ="about-me-coll">
 My name is Richard and I'm currently a resident in Philadelphia, born and raised in New York. I enjoy coding, anime, and going to the gym. I started with my love for technology at a very young age, constantly breaking down and building up my computers, playing around with hard drives, and just playing online with friends. At this time, I also joined multiple online communites such as Naruto-Arena and IMVU, using Photoshop, Sony Vegas, and Gimp for photo & video manipulation. In my early teens I was ranked as a high intermediate Gfxer on <a href="https://tagfreak.net/">Tagfreak</a>. When enrolling into college, I refused to let my love for computers dissipate and went for Computer Science as my major. Message/Connect with me on <a href ="https://www.linkedin.com/in/richardulysse/">LinkedIn</a> and tell me a little about yourself!
 </div>
-
+<br>
 <i>Perfection and power are overrated. I think you are very wise to choose happiness and love.</i> -Uncle Iroh
