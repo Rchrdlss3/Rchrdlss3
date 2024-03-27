@@ -122,7 +122,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 </div>
 
 # What I'm Currently Working On
-<a href="https://github.com/Rchrdlss3/Otaku-Pumps">Otakue Pumps</a>,<a href ="https://github.com/Rchrdlss3/LellowHub">Alicia Keys Kotlin Project</a>
+<a href="https://github.com/Rchrdlss3/Otaku-Pumps">Otaku Pumps</a>,<a href ="https://github.com/Rchrdlss3/LellowHub">Alicia Keys Kotlin Project</a>
 
 # About Me
 <div class = "about-me-content" id ="about-me-coll">
