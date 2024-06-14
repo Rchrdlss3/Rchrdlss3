@@ -121,8 +121,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-origina
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 
-# What I'm Currently Working On
-<a href="https://github.com/Rchrdlss3/Otaku-Pumps">Otaku Pumps</a>,<a href ="https://github.com/Rchrdlss3/LellowHub">Alicia Keys Kotlin Project</a>
+# My Recent Projects
+<a href = "https://github.com/Rchrdlss3/iListAlbums">iListAlbums</a> <a href = "https://github.com/Rchrdlss3/Gonaives-Debout">Gonaives Debout</a><a href="https://github.com/Rchrdlss3/Otaku-Pumps">Otaku Pumps</a>,<a href ="https://github.com/Rchrdlss3/LellowHub">Alicia Keys Kotlin Project</a>
 
 # About Me
 <div class = "about-me-content" id ="about-me-coll">
