@@ -18,7 +18,7 @@ style = "algin: left;">
 src = "images/linkedin.png"> </img>
 </a>
 
-<a href = "https://innovativerich.netlify.app/" > 
+<a href = "https://rchrdlss3.github.io/portfolio" > 
 <img style =
         "width : 15%;
          height: 15%; 
