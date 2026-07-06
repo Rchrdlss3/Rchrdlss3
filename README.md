@@ -6,7 +6,7 @@
 
 **Full Stack Engineer**
 
-Hello and welcome to my Github portfolio! I'm currently employed at <a href ="https://www.taskrabbit.com/">Task Rabbit </a> as Software Engineer II.
+Hello and welcome to my Github portfolio!
 
 <div class = "portfolio-links-wrapper">
 <p 
